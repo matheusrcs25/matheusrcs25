@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu chamo Matheus Ricardo, sou um desenvolvedor Front-End apaixonado por tecnologias e novidades. Estou a cada dia mais me aperfeiçoando nesse universo. estudadndo e trabalhando com muito entusiasmo em vários projetos. 💻
+Me chamo Matheus Ricardo, sou um desenvolvedor Front-End apaixonado por tecnologias e novidades. Estou a cada dia mais me aperfeiçoando nesse universo. estudadndo e trabalhando com muito entusiasmo em vários projetos. 💻
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
